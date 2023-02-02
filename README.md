@@ -15,6 +15,11 @@
 ## ⚙️사용기술
 <img width="1423" alt="스크린샷 2023-01-16 오전 11 10 25" src="https://user-images.githubusercontent.com/108543999/212584009-eb5fb842-4fb1-4be6-a6d7-f9843fcab727.png">
 
+## <img width="30" alt="스크린샷 2023-01-30 오후 7 02 51" src="https://user-images.githubusercontent.com/108543999/215448230-ec85f58d-970e-473c-a8a4-5cb8728f4aac.png"> ERD
+<div align = 'center'>
+<img src="https://user-images.githubusercontent.com/108543999/216244409-c20b7d3e-7c8e-4ae6-8be1-25b925333cd4.png">
+</div>
+
 ## ✔️  담당업무 
 - 백엔드
 - 팀장
